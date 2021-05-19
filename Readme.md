@@ -9,6 +9,7 @@
 
 ### Further information
 
-In case you want an **image** of the results your search found, remove the comments (//) in line 9. If you do it, afer running Requester.js (see step 2) the image will appear inside the project's folder. You will be able to see it if you open your visual studio code explorer (the icon top left with two sheets). 
+The code will provide you with a snapshot (an image with the results your search found) and will name it **screenshot.png**. In case you don't need it, you can comment lines 12 and 13 and the automation will stop doing it. 
+If you do want the snapshot, it will appear in the project folder with the previously mentioned name and can be found by clicking the visual studio code **Explorer** icon (top left and represented by two sheets).
 
 The browser will close by default after three seconds, but it can be changed by editing the variable at **line 7**. 
